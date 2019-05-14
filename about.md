@@ -13,8 +13,11 @@ Engineering at my desk, Hoping to change the world.
 ### Find about me on here:
 
 [Github](https://github.com/yeshvantbhavnasi)
+
 [Medium](https://medium.com/@yeshvantbhavnas)
+
 [Twitter](https://twitter.com/yeshvantbhavnas)
+
 [Email](mailto:yeshvantbhavnasi@gmail.com)
 
 
