@@ -1,15 +1,21 @@
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-        <meta name="application-url" content="https://yeshvantbhavnasi.info"/>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="keywords" content="Yeshvant Bhavnasi,Yeshvant,bhavnasi,bhavnasi venkat satya,code,javascript,node,databases,startups,angular,machine learning">
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
-        <link rel="stylesheet" href="./content.css" crossorigin="anonymous">
-        <title>Yeshvant Bhavnasi</title>
-
-    </head>
-    <body>
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="application-url" content="https://yeshvantbhavnasi.info"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="Yeshvant Bhavnasi,Yeshvant,bhavnasi,bhavnasi venkat satya,code,javascript,node,databases,startups,angular,machine learning">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="./content.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    
     <nav class="nav">
         <div class="nav__left">
             <a href="/">Home</a>
@@ -25,5 +31,13 @@
     </nav>
         <h1 class="title">Yeshvant Bhavnasi</h1>
         <p class="quote">Engineering at my desk. Hoping to change the world for betterment.</p>
-    </body>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+       © 2019 Yeshvant Bhavnasi.
+      </footer>
+    </main>
+  </body>
 </html>
