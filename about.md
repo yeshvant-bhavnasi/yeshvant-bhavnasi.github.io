@@ -1,4 +1,4 @@
-![Yeshvant](https://miro.medium.com/fit/c/240/240/1*rU8nTd7ezhp_-_-WfzkG6Q.jpeg)
+![Yeshvant](https://media.licdn.com/dms/image/C5603AQHKxE1heJNI5Q/profile-displayphoto-shrink_100_100/0?e=1563408000&v=beta&t=ly1icZGgTAElnfKkBeefmXhoVhOv2AyO9X4O5nxTXMM)
 ```java
 Engineering at my desk, Hoping to change the world.
 ```
@@ -8,7 +8,7 @@ Engineering at my desk, Hoping to change the world.
 * DevConnect Marketplace to help one click integration apps 
   + Java, angular fullstack development
 * Machine learning enthusiast, specially in natural language processing, image classification
-* Enterpreneur workinh on cool social ideas.
+* Enterpreneur working on ideas which will make better future for humans.
 
 ### Find about me on here:
 
@@ -19,8 +19,3 @@ Engineering at my desk, Hoping to change the world.
 [Twitter](https://twitter.com/yeshvantbhavnas)
 
 [Email](mailto:yeshvantbhavnasi@gmail.com)
-
-
-
-
-
