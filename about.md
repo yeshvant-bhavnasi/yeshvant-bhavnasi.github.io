@@ -1,8 +1,8 @@
 ---
 ## Software Engineer @ Guidewire Software
 
-* DevConnect Marketplace to help one click integration apps 
-  + Java, angular fullstack development
+* Working on Streaming platform.
+* Working on DevConnect intergration platfrom making SDK's exposing features and functionalitty.
 * Machine learning enthusiast, specially in natural language processing, image classification
 * Enterpreneur working on ideas which will make better future for humans.
 
