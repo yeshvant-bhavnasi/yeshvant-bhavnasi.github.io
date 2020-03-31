@@ -15,8 +15,3 @@
 [Twitter](https://twitter.com/yeshvantbhavnas)
 
 [Email](mailto:yeshvantbhavnasi@gmail.com)
-
-Yeshvant
-```java
-Engineering at my desk, Hoping to change the world.
-```
