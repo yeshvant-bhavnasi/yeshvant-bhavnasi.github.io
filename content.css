@@ -25,7 +25,7 @@ body {
   margin-left: 0.5rem;
 }
 
-.blog a {
+a {
   color: grey;
   text-decoration: none;
   transition: color 0.25s;
