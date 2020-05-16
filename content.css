@@ -27,9 +27,7 @@ body {
 
 a {
   color: grey;
-  text-decoration: none;
   transition: color 0.25s;
-  margin-left: 0.5rem;
 }
 
 a:hover {
