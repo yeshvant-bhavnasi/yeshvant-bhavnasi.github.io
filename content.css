@@ -6,8 +6,8 @@ body {
   margin: auto;
   max-width: 50rem;
   padding: 1rem;
-  background-color: #fafafa;
-  color: #000;
+  background-color: #000;
+  color: #fff;
   font-size: 18px;
   line-height: 145%;
 }
@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-  color: #0087f8;
+  color: #4f7a2f;
 }
 
 .title {

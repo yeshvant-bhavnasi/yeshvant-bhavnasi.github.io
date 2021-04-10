@@ -1,0 +1,23 @@
+{
+  "name": "yeshvantbhavnasi.github.io",
+  "version": "1.0.0",
+  "description": "my blog containing my writings and research",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeshvant-bhavnasi/yeshvantbhavnasi.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeshvant-bhavnasi/yeshvantbhavnasi.github.io/issues"
+  },
+  "homepage": "https://github.com/yeshvant-bhavnasi/yeshvantbhavnasi.github.io#readme"
+}
