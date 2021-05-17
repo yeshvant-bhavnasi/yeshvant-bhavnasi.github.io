@@ -6,10 +6,15 @@ body {
   margin: auto;
   max-width: 50rem;
   padding: 1rem;
-  background-color: #000;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
   font-size: 18px;
   line-height: 145%;
+}
+
+.darkmode {
+  color: #dcdcdc;
+  background-color: #222831;
 }
 
 .nav {
