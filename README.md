@@ -14,4 +14,15 @@ my blog containing my learning and thoughts in general
 - Short Ideas
 - Books I have read and its summary
 
+#### Hello
+
+visit my[^1] website
+
+
+
+
 [visit here](https://yeshvantbhavnasi.info)
+
+
+
+[^1]: (https://yeshvantbhavnasi.info)
